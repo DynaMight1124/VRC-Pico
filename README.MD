@@ -84,7 +84,7 @@ Any Pico/RP2040 should also work as long as you connect to the correct pins. If 
 
 ### Option 1: The Easy Way (UF2 File)
 
-1.  Download the `VRC_Pico.uf2` file from the [Releases page](releases/latest).
+1.  Download the `VRC_Pico.uf2` file from the [Releases page](https://github.com/DynaMight1124/VRC-Pico/releases).
 
 2.  Hold the **BOOTSEL** button on your Pico while plugging it into your computer.
 
